@@ -16,14 +16,14 @@ This project has three section or pages :-
 
 First section goes for data entry of credit , debit with a short note of where it come from or go through 
 
-Second section goes for overall view of credit , debit and a smart pie chart which differentiate where the money goes
-
-Third section goes for the database where every month calculation was stored in the short form for a whole year 
-
-This is my overall project of expense tracker with a minimum & simple UI
-
 <img width="1920" height="1080" alt="Screenshot 2026-10-27 184229" src="https://github.com/user-attachments/assets/b6d4387f-16bb-48fe-8254-3b131291c1e5" />
+
+Second section goes for overall view of credit , debit and a smart pie chart which differentiate where the money goes
 
 <img width="1920" height="1080" alt="Screenshot 2026-10-27 184242" src="https://github.com/user-attachments/assets/82ecfb5d-a506-44ca-9e05-49f6e23f9f9c" />
 
+Third section goes for the database where every month calculation was stored in the short form for a whole year 
+
 <img width="1920" height="1080" alt="Screenshot 2026-10-27 184252" src="https://github.com/user-attachments/assets/5411493c-8574-4c68-aa11-1e0812387d99" />
+
+This is my overall project of expense tracker with a minimum & simple UI
